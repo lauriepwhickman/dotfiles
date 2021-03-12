@@ -1,0 +1,9 @@
+2021/03/11-16:36:47.514 5c9 Reusing MANIFEST /home/laurie/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2021/03/11-16:36:47.514 5c9 Recovering log #3
+2021/03/11-16:36:47.517 5c9 Reusing old log /home/laurie/.config/Notion/Partitions/notion/Local Storage/leveldb/000003.log 
+2021/03/11-16:56:53.297 676 Level-0 table #5: started
+2021/03/11-16:56:53.300 676 Level-0 table #5: 20384 bytes OK
+2021/03/11-16:56:53.302 676 Delete type=0 #3
+2021/03/11-18:46:53.203 676 Level-0 table #7: started
+2021/03/11-18:46:53.338 676 Level-0 table #7: 22820 bytes OK
+2021/03/11-18:46:53.346 676 Delete type=0 #4
